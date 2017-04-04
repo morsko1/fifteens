@@ -1,0 +1,26 @@
+*{
+	box-sizing: border-box;
+}
+.field{
+	width: 400px;
+	height: 25em;
+	background-color: #ddf;
+}
+.cell{
+	/*width: 25%;*/
+	/*height: 6.25em;*/
+	font-size: 1em;
+}
+.inner{
+	background-color: #87CEFA;
+	font-size: 3em;
+	box-shadow: inset 0px 0px 0px 1px #777;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	line-height: 2.5em;
+	color: #333;
+}
+.strip{
+	background-color: #87aaFA;
+}
